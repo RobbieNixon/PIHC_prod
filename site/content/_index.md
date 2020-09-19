@@ -15,6 +15,6 @@ products:
       text: "Our homes will employ best in class staff and service to see our loved ones get the care they deserve."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Patience In-Home Care founder, Patience Nixon, has always had a passion for helping others.  Integrity, diversity, putting people first and forward thinking are the pillars of Patience In-Home Care.
 ---
 
