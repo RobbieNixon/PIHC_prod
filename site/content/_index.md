@@ -4,7 +4,7 @@ subtitle: Home care with Patience
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Patience In-Home Care?
-    text: "Patinece In-Home Care's founder, Patience Nixon, is passionate about in-home care, helping others and running the business the right way with the right people."
+    text: "Patience In-Home Care's founder, Patience Nixon, is passionate about in-home care, helping others and running the business the right way with the right people."
 intro:
     heading: "What does Patience In-Home Care offer?"
     text: "Patience In-Home Care is currently in the process of registering, and expects to offer best in class in-home care to North Twin Cities residents sometine in 2021."
