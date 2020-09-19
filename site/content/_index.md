@@ -1,6 +1,6 @@
 ---
 title: "Patience In-Home Care"
-subtitle: Patient's homes for patients.
+subtitle: Home care with Patience
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Patience In-Home Care?
