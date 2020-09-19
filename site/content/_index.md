@@ -1,6 +1,6 @@
 ---
-title: "Home Care with Patience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Patience In-Home Care"
+subtitle: Patient's homes for patients.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Patience In-Home Care?
