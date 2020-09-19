@@ -10,9 +10,9 @@ intro:
     text: "Patience In-Home Care is currently in the process of registering, and expects to offer best in class in-home care to North Twin Cities residents sometine in 2021."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "We are pursuing opening homes in the North Metro of the Twin Cities; in 20201 we will be looking to open our first four bed-room home."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Our homes will employ best in class staff and service to see our loved ones get the care they deserve."
 values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
