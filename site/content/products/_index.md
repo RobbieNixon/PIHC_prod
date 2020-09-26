@@ -1,6 +1,6 @@
 ---
 title: Our Coffee
-image: img/20020623-inta-andris-hope.jpg
+image: img/about-direct-sourcing.jpg
 heading: What we offer
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
