@@ -1,6 +1,6 @@
 ---
-title: PIHC
-subtitle: LLC
+title: .
+subtitle: .
 image: img/about-jumbotron.jpg
 blurb:
   heading: Why Patience In-Home Care?
