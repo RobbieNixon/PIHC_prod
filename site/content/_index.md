@@ -1,7 +1,7 @@
 ---
-title: PIHC
-subtitle: LLC
-image: img/about-jumbotron.jpg
+title: .
+subtitle: .
+image: img/fb_banner..dnnu.png
 blurb:
   heading: Why Patience In-Home Care?
   text: Patience In-Home Care's founder, Patience Nixon, is passionate about
