@@ -1,6 +1,6 @@
 ---
-title: Patience In-Home Care
-subtitle: Home care with Patience
+title: PIHC
+subtitle: LLC
 image: img/about-jumbotron.jpg
 blurb:
   heading: Why Patience In-Home Care?
@@ -13,12 +13,8 @@ intro:
     expects to offer best in class in-home care to North Twin Cities residents
     sometine in 2021.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We are pursuing opening homes in the North Metro of the Twin Cities; in
-      20201 we will be looking to open our first four bed-room home.
-  - image: /img/illustrations-coffee-gear.svg
-    text: Our homes will employ best in class staff and service to see our loved
-      ones get the care they deserve.
+  - image: img/health.state.mn.jpg
+    text: Care for your loved ones.
 values:
   heading: Our values
   text: Patience In-Home Care founder, Patience Nixon, has always had a passion
