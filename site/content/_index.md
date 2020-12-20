@@ -1,7 +1,7 @@
 ---
 title: .
 subtitle: .
-image: img/about-jumbotron.jpg
+image: img/fb_banner..dnnu.png
 blurb:
   heading: Why Patience In-Home Care?
   text: Patience In-Home Care's founder, Patience Nixon, is passionate about
