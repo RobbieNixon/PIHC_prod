@@ -39,8 +39,6 @@ intro:
 
     •	Weekly Outings
 products:
-  - image: img/health.state.mn.jpg
-    text: Care for your loved ones.
   - image: img/2.png
     text: Patience loves to help others and is excited to start her group home and
       take care of your loved ones.
