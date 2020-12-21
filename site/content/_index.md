@@ -65,7 +65,7 @@ products:
       operations, meeting associated deadlines, and working with customers and
       developer teams.
 values:
-  heading: Contacting Patience In Home Care
-  text: Please check out our links at the bottom of this page if you like to reach
-    out to Patience In Home Care today.
+  heading: Coming Soon..
+  text: Please let us know if anyone has any questions or suggestions for our new
+    business.  See you soon!
 ---
