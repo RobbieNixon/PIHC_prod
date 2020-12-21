@@ -40,8 +40,16 @@ intro:
     •	Weekly Outings
 products:
   - image: img/2.png
-    text: Patience loves to help others and is excited to start her group home and
-      take care of your loved ones.
+    text: Patience In-Home Care's founder, Patience Nixon, is passionate about
+      in-home care, helping others and running the business the right way with
+      the right people. Patience is an RN having 20+ years working in health
+      care (senior living, assisted living, group home, private duty
+      nursing).  She has been highly sought after by her previous and current
+      employers for the level of care and experience she provides.  Patience has
+      worked in in-home care and institutional elderly care for many years and
+      has taken care of clients with various trach and ventilator needs (i.e.,
+      Muscular Dystrophy, ALS, and quadriplegic clients) as well as elderly
+      clients (i.e., clients with dementia & Alzheimer’s).
   - image: img/robbie.jpg
     text: Patience husband (Robbie) has Bachelor of Science in BCIS (Business
       Computer Information Systems) and has 15+ years managing system's teams
