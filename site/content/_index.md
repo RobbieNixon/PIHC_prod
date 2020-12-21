@@ -1,6 +1,6 @@
 ---
-title: .
-subtitle: .
+title: Patience In Home Care
+subtitle: PIHC
 image: img/fb_banner..dnnu.png
 blurb:
   heading: Why Patience In-Home Care?
