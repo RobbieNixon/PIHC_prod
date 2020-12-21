@@ -42,6 +42,19 @@ products:
   - image: img/2.png
     text: Patience loves to help others and is excited to start her group home and
       take care of your loved ones.
+  - image: img/robbie.jpg
+    text: Patience husband (Robbie) has Bachelor of Science in BCIS (Business
+      Computer Information Systems) and has 15+ years managing system's teams
+      and over 20 years of working in the Information Technology field.  He’s
+      been interested in technology and computing since seeing his first
+      portable computers in the early 80’s; he sat and watch his dad program the
+      game “duck” on an Osborne portable computer (from an instruction
+      manual).  Professionally, he has worked in development primarily with MS
+      SQL Server databases and data management and transfer for many years both
+      at a benefit enrollment company from 2000-2015, and since has worked in
+      Financial Information Systems.  He has extensive experience in managing
+      operations, meeting associated deadlines, and working with customers and
+      developer teams.
 values:
   heading: A new beginning..
   text: "Founded by Registered Nurse and long-time caregiver, Patience, with the
