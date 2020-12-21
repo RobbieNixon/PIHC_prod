@@ -11,7 +11,7 @@ blurb:
     people.
 
 
-    Industry Experience/Core Competencies of the owner (Patience) who is an RN having 20+ years working in health care (senior living, assisted living, group home, private duty nursing).  Patience has been highly sought after by her previous and current employers for the level of care and experience she provides.  Patience has worked in in-home care and institutional elderly care for many years and has taken care of clients with various trach and ventilator needs (i.e., Muscular Dystrophy, ALS, and quadriplegic clients) as well as elderly clients (i.e., clients with dementia & Alzheimer’s). She spent a couple weeks doing volunteer work in Ganta, Liberia, and has a passion for helping others.
+    Industry Experience/Core Competencies of the owner (Patience) who is an RN having 20+ years working in health care (senior living, assisted living, group home, private duty nursing).  Patience has been highly sought after by her previous and current employers for the level of care and experience she provides.  Patience has worked in in-home care and institutional elderly care for many years and has taken care of clients with various trach and ventilator needs (i.e., Muscular Dystrophy, ALS, and quadriplegic clients) as well as elderly clients (i.e., clients with dementia & Alzheimer’s).
 intro:
   heading: What does Patience In-Home Care offer?
   text: >
@@ -41,6 +41,9 @@ intro:
 products:
   - image: img/health.state.mn.jpg
     text: Care for your loved ones.
+  - image: img/2.png
+    text: Patience loves to help others and is excited to start her group home and
+      take care of your loved ones.
 values:
   heading: A new beginning..
   text: "Founded by Registered Nurse and long-time caregiver, Patience, with the
@@ -48,7 +51,7 @@ values:
     sets out to get established as a cost effective, trusted choice for housing
     adults with special needs in North Metro of the Twin Cities.  While the MN
     Department of Health is not accepting licenses for new group homes due to
-    the COVID-19 pandemic, Patience is staying busy serving as full time RN for
-    Seferrt Health Care and planning the other aspects of her business in hopes
-    of opening her first home in 2021.  "
+    the COVID-19 pandemic, Patience is staying busy serving as full time RN and
+    planning the other aspects of her business in hopes of opening her first
+    home in 2021.  "
 ---
