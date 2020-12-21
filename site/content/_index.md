@@ -1,6 +1,7 @@
 ---
 title: Patience In Home Care
-subtitle: PIHC
+subtitle: Your loved ones are our number one priority; when they are with us, we
+  patiently care for them.
 image: img/fb_banner..dnnu.png
 blurb:
   heading: Why Patience In-Home Care?
