@@ -2,7 +2,7 @@
 title: Patience In Home Care
 subtitle: Your loved ones are our number one priority; when they are with us, we
   patiently care for them.
-image: img/pihc_jumbobanner.jpg
+image: img/about-jumbotron.jpg
 blurb:
   heading: What is Patience In Home Care plan?
   text: "Founded by Registered Nurse and long-time caregiver, Patience, with the
