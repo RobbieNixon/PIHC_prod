@@ -1,7 +1,6 @@
 ---
 title: Patience In Home Care
-subtitle: Your loved ones are our number one priority; when they are with us, we
-  patiently care for them.
+subtitle: We patiently care for your loved ones.
 image: img/patie-1-.jpg
 blurb:
   heading: What is Patience In Home Care plan?
