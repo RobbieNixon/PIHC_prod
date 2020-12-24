@@ -39,7 +39,7 @@ intro:
 
     •	Weekly Outings
 products:
-  - image: img/2.png
+  - image: img/untitled-design.jpg
     text: Patience In-Home Care's founder, Patience Nixon, is passionate about
       in-home care, helping others and running the business the right way with
       the right people. Patience is an RN having 20+ years working in health
