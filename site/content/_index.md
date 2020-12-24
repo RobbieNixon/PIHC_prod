@@ -3,41 +3,23 @@ title: Patience In Home Care
 subtitle: We patiently care for your loved ones.
 image: img/patie-1-.jpg
 blurb:
-  heading: What is Patience In Home Care plan?
-  text: "Founded by Registered Nurse and long-time caregiver, Patience, with the
-    support of her husband and business partner, Patience In Home Care (PIHC)
-    sets out to get established as a cost effective, trusted choice for housing
-    adults with special needs in North Metro of the Twin Cities in the Anoka
-    County area.  While the MN Department of Health is not accepting licenses
-    for new group homes due to the COVID-19 pandemic, Patience is staying busy
-    serving as full time RN and planning the other aspects of her business in
-    hopes of opening her first home in 2021.  "
+  heading: Why PIHC?
+  text: Patience In Home Care (PIHC) is a startup for your loved ones with medical
+    needs. Founder Patience Nixon, has many years of experience in providing
+    personal care in a group home setting for those with oxygen needs and other
+    advanced medical needs in the North Metro Anoka County area.  Patience and
+    her team will see you and your loved ones receive this excellent care with
+    us.
 intro:
-  heading: What does Patience In-Home Care offer?
-  text: >
-    Patience In Home Care (PIHC) will initially be a single home including four
-    bedrooms and office. PIHC's goals will be to provide our clients the
-    following services:
-
-    •	Ambulation Assistance
-
-    •	Behavioral Monitoring and Intervention
-
-    •	Daily Housekeeping
-
-    •	Personal Care and Daily Living Activities (ADL’s) - (I.e. Grooming)
-
-    •	Laundry Assistance
-
-    •	Meal Preparation (3 meals a day w/ snacks available throughout day)
-
-    •	Medication Administration
-
-    •	Social and Spiritual Activities (I.e. Arranging Outings)
-
-    •	Transportation and Appointment Assistance (I.e. Doctor’s and day program appointments)
-
-    •	Weekly Outings
+  heading: What does PIHC offer?
+  text: Patience In Home Care (PIHC) will initially be purchasing its first home
+    in 2021. PIHC's goals will be to provide clients with oxygen needs such as
+    ALS, Muscular Dystrophy and other medical needs a safe and comfortable
+    sanctuary of care in the North Metro.  Our first home hasn't yet been
+    purchased today, but will likely be Anoka County near the city of Andover.
+    PIHC will offer its clients 24/7 care and personalized home
+    environment.  PIHC's is targeting to have a van with handicap accessable
+    ramp at the time we open.
 products:
   - image: img/untitled-design.jpg
     text: Patience In-Home Care's founder, Patience Nixon, is passionate about
