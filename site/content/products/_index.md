@@ -4,7 +4,13 @@ image: img/copy-of-patie.jpg
 heading: What we offer
 description: Patience In Home Care will expand its services over time.
 intro:
-  blurbs: []
+  blurbs:
+    - image: img/istock-1181670698.jpg
+      text: PIHC's initial goal is to purchase a home with four bedrooms.  We will be
+        helping clients with their ADL's (Assisted Daily Living - Activities).
+    - image: img/istock-1186772636.jpg
+      text: PIHC is working on getting financing on funding for a handicap accessible
+        van.  PIHC's goal is to provide transportation options for our clients.
   heading: What we offer
   description: >
     Patience In Home Care (PIHC) will initially be a single home including four
