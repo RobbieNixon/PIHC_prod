@@ -1,11 +1,8 @@
 ---
-title: Our Nurses
-image: img/health.state.mn.jpg
-heading: What we offer TODAY
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+title: Our Services
+image: img/copy-of-patie.jpg
+heading: What we offer
+description: Patience In Home Care will expand its services over time.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -35,12 +32,15 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer NOW
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: What we offer
+  description: "Patience In Home Care will expand its services over time. In the
+    coming year, our primary focus is opening our first home and take care of
+    clients with advanced medical needs including, but not limited to ALS and
+    Muscular Dystrophy clients with ventilator needs.  Founder Patience Nixon
+    has many years of experience working with clients with tracheotomy and on
+    ventilators. PIHC will also like to help service its community to meets
+    providing services including: Adult Sitting, Adult Assessments, Senior Care,
+    In-Home ADL's, and Private Duty Nursing."
 main:
   heading: Great coffee with no compromises
   description: >
@@ -58,12 +58,10 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - quote: "\"I've known Patience for many years. She took care of my mom in her
+      later years and became a friend of mine.  You couldn't be in better hands
+      than with Patience\"  "
+    author: "- Pam from Alexandria"
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
