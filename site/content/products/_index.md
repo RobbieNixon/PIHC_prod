@@ -67,7 +67,7 @@ testimonials:
       years and became a friend of mine.  You couldn't be in better hands than
       with Patience.
     author: "- Pam from Alexandria"
-full_image: img/istock-1180634974.jpg
+full_image: img/istock-1199687289.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
