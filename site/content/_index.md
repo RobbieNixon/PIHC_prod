@@ -24,6 +24,7 @@ intro:
 products: []
 values:
   heading: More About Us..
-  text: Please let us know if anyone has any questions or suggestions for our new
-    business.  See you soon!
+  text: We would love the opportunity to help you or your loved ones. Please let
+    us know if anyone has any questions or suggestions for our new
+    business.  Hope to see you soon!  (Click "read more" for more about us).
 ---
