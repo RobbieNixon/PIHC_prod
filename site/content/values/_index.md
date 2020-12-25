@@ -13,7 +13,12 @@ values:
       thrive and grow with us!
     imageUrl: img/istock-1181670537.jpg
   - heading: Appreciation for Our Clients
-    text: " At PIHC, we aAt PIHC, we patiently care for your loved ones."
+    text: At PIHC, we are never content until your loved ones are.  We know our best
+      referrals and our reputation count on those in our care and we will
+      actively engage them to hear their ideas and continuously improve our
+      services for them.  We hope to expand services to provide new ways to
+      entertain and engage our clients as we grow and allow our clients to drive
+      what they need and want most.
     imageUrl: img/istock-1248708457.jpg
   - heading: Patience
     text: >
