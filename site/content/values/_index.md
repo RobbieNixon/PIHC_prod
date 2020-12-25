@@ -1,45 +1,47 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: Values
+image: img/copy-of-patie.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Our Employees
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Of course, employees are the foundation of most any home care, but
+      Patience In Home Care (PIHC), doesn't just say this, but appreciates
+      this!  Afterh having worked years at some larger companies Patience has
+      noticed some of the larger health care companies in the area lose sight of
+      engaging, appreciating and rewarding strong work by their Nurses and
+      PCA's. At PIHC, we are going to do annual and mid year reviews and make
+      sure we hear our employee team. 
+    imageUrl: img/istock-1181670537.jpg
+  - heading: Our Clients
+    text: Patience In Home Care's founder, Patience, has always had a passion for
+      caring for people.  This is the foundation of our company and is part our
+      mission;  at Patience In Home Care we patiently care for your loved ones.
+    imageUrl: img/istock-1248708457.jpg
+  - heading: Patience
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Patience In-Home Care's founder, Patience Nixon, is passionate about
+      in-home care, helping others and running the business the right way with
+      the right people. Patience is an RN having 20+ years working in health
+      care (senior living, assisted living, group home, private duty nursing).
+      She has been highly sought after by her previous and current employers for
+      the level of care and experience she provides. Patience has worked in
+      in-home care and institutional elderly care for many years and has taken
+      care of clients with various trach and ventilator needs (i.e., Muscular
+      Dystrophy, ALS, and quadriplegic clients) as well as elderly clients
+      (i.e., clients with dementia & Alzheimer’s).
+    imageUrl: img/2.jpg
+  - heading: Robbie
+    text: Patience husband (Robbie) has Bachelor of Science in BCIS (Business
+      Computer Information Systems) and has 15+ years managing system's teams
+      and over 20 years of working in the Information Technology field. He’s
+      been interested in technology and computing since seeing his first
+      portable computers in the early 80’s; he sat and watch his dad program the
+      game “duck” on an Osborne portable computer (from an instruction manual).
+      Professionally, he has worked in development primarily with MS SQL Server
+      databases and data management and transfer for many years both at a
+      benefit enrollment company from 2000-2015, and since has worked in
+      Financial Information Systems. He has extensive experience in managing
+      operations, meeting associated deadlines, and working with customers and
+      delivery teams.
+    imageUrl: img/robbie.jpg
 ---
