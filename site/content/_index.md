@@ -23,7 +23,7 @@ intro:
     ramp at the time we open.
 products: []
 values:
-  heading: Coming Soon..
+  heading: More About Us..
   text: Please let us know if anyone has any questions or suggestions for our new
     business.  See you soon!
 ---
