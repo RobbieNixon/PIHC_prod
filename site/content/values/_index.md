@@ -20,7 +20,7 @@ values:
       entertain and engage our clients as we grow and allow our clients to drive
       what they need and want most.
     imageUrl: img/istock-1248708457.jpg
-  - heading: Patience
+  - heading: Patience - President/CEO
     text: >
       Patience In-Home Care's founder, Patience Nixon, is passionate about
       in-home care, helping others and running the business the right way with
@@ -33,18 +33,16 @@ values:
       Dystrophy, ALS, and quadriplegic clients) as well as elderly clients
       (i.e., clients with dementia & Alzheimer’s).
     imageUrl: img/2.jpg
-  - heading: Robbie
+  - heading: Robbie - Management Team
     text: Patience husband (Robbie) has Bachelor of Science in BCIS (Business
       Computer Information Systems) and has 15+ years managing system's teams
       and over 20 years of working in the Information Technology field. He’s
       been interested in technology and computing since seeing his first
-      portable computers in the early 80’s; he sat and watch his dad program the
-      game “duck” on an Osborne portable computer (from an instruction manual).
-      Professionally, he has worked in development primarily with MS SQL Server
-      databases and data management and transfer for many years both at a
-      benefit enrollment company from 2000-2015, and since has worked in
-      Financial Information Systems. He has extensive experience in managing
-      operations, meeting associated deadlines, and working with customers and
-      delivery teams.
+      portable computers in the early 80’s; he sat and watched his dad program
+      in the game “duck” from a programming guide on an Osborne portable
+      computerand was ever since captivated with technology.  Professionally, he
+      has worked in development, managing applications and data since the year
+      2000.  For PIHC, Robbie will work with Patience to guide and support
+      financial, technological, operational, technical and strategic decisions.
     imageUrl: img/robbie.jpg
 ---
