@@ -47,11 +47,13 @@ main:
     providing services including: Adult Sitting, Adult Assessments, Senior Care,
     In-Home ADL's, and Private Duty Nursing."
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: PIHC's initial goal is to purchase a home with four bedrooms.  We will be
+      helping clients with their ADL's (Assisted Daily Living - Activities).
+    image: img/istock-1181670698.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: PIHC is working on getting financing on funding for a handicap accessible
+      van.  PIHC's goal is to provide transportation options for our clients.
+    image: img/istock-1186772636.jpg
   image3:
     alt: Coffee beans
     image: img/istock-1180634974.jpg
