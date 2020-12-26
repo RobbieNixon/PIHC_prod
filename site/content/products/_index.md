@@ -83,7 +83,7 @@ testimonials:
       care for my grandson. When thing seemed dark, she was the light for
       him.  Until his last days he would greet Patience with his biggest
       smile.  He looked forward to hearing her knock-knock jokes and riddles.  I
-      can hear him asking "what goes up when the rain comes down?". We are
+      can hear him asking 'what goes up when the rain comes down?'. We are
       grateful.
     author: "- Sue from Blaine"
 full_image: img/istock-1199687289.jpg
