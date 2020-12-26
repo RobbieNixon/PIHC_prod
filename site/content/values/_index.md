@@ -5,12 +5,12 @@ values:
   - heading: Appreciation for Our Employees
     text: >
       At Patience In Home Care (PIHC),  we know we are only as good as our
-      employees.  Some larger companies Patience has noticed some of the larger
-      health care companies in the area lose sight of engaging, appreciating and
-      rewarding strong work by their Nurses and PCA's. At PIHC, we are going to
-      do mid-year and annual reviews and regularly engage and be open to our
-      team to continuously improve our organization and enable our employees to
-      thrive and grow with us!
+      employees.  We recognize that some larger health care companies in the
+      area have lost sight of engaging, appreciating and rewarding strong work
+      by their Nurses and PCA's. At PIHC, part of our foundation is regularly
+      engaging our team to learn from them, know where they are at, and
+      continuously improve our organization and enable our employees to thrive
+      and grow with us!
     imageUrl: img/istock-1181670537.jpg
   - heading: Appreciation for Our Clients
     text: At PIHC, we are never content until your loved ones are.  We know our best
@@ -36,13 +36,11 @@ values:
   - heading: Robbie - Management Team
     text: Patience husband (Robbie) has Bachelor of Science in BCIS (Business
       Computer Information Systems) and has 15+ years managing system's teams
-      and over 20 years of working in the Information Technology field. He’s
-      been interested in technology and computing since seeing his first
-      portable computers in the early 80’s; he sat and watched his dad program
-      in the game “duck” from a programming guide on an Osborne portable
-      computerand was ever since captivated with technology.  Professionally, he
-      has worked in development, managing applications and data since the year
-      2000.  For PIHC, Robbie will work with Patience to guide and support
-      financial, technological, operational, technical and strategic decisions.
+      and over 20 years of working in the Information Technology field. He can
+      remember sitting in his father's lap as a young lad and being mesmerized
+      by his father make the computer game "Duck" come alive by entering
+      programming instructions.  For PIHC, Robbie will work with Patience to
+      guide and support financial, technological, operational, technical and
+      strategic decisions.
     imageUrl: img/robbie.jpg
 ---
