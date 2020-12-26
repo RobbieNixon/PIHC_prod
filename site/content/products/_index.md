@@ -39,15 +39,26 @@ intro:
     bedrooms.  PIHC will offer in home services in our home or yours.
 
 main:
-  heading: Additional Services
-  description: "Patience In Home Care will expand its services over time. In the
-    coming year, our primary focus is opening our first home and take care of
-    clients with advanced medical needs including, but not limited to ALS and
-    Muscular Dystrophy clients with ventilator needs.  Founder Patience Nixon
-    has many years of experience working with clients with tracheotomy and on
-    ventilators. PIHC will also like to help service its community to meets
-    providing services including: Adult Sitting, Adult Assessments, Senior Care,
-    In-Home ADL's, and Private Duty Nursing."
+  heading: Services Provided in Our Home
+  description: >
+    
+    •	Ambulation Assistance
+
+    •	Behavioral Monitoring and Intervention
+
+    •	Daily Housekeeping
+
+    •	Personal Care and Daily Living Activities (ADL’s) - (I.e. Grooming)
+
+    •	Laundry Assistance
+
+    •	Meal Preparation (3 meals a day w/ snacks available throughout day)
+
+    •	Medication Administration
+
+    •	Social and Spiritual Activities (I.e. Arranging Outings)
+
+    •	Transportation and Appointment Assistance (I.e. Doctor’s and day program appointments, social outings, etc.) 
   image1:
     alt: PIHC's initial goal is to purchase a home with four bedrooms.  We will be
       helping clients with their ADL's (Assisted Daily Living - Activities).
