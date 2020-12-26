@@ -5,37 +5,18 @@ heading: What we offer
 description: Patience In Home Care will expand its services over time.
 intro:
   blurbs:
-    - image: img/istock-1181670698.jpg
-      text: PIHC's initial goal is to purchase a home with four bedrooms.  We will be
-        helping clients with their ADL's (Assisted Daily Living - Activities).
-    - image: img/istock-1186772636.jpg
+    - image: img/tile.respcare.jpg
+      text: PIHC welcomes respiratory need clients.  Patience has extensive experience
+        working years with ALS, Muscular Dystrophy and other conditions
+        requiring Tracheostomy and Ventilator administration.
+    - image: img/tile.seniorcare.jpg
       text: PIHC is working on getting financing on funding for a handicap accessible
         van.  PIHC's goal is to provide transportation options for our clients.
   heading: What we offer
-  description: >
+  description: >+
     Patience In Home Care (PIHC) will initially be a single home including four
-    bedrooms.  PIHC's goals will be to provide our clients the following
-    services:
+    bedrooms.  PIHC will offer in home services in our home or yours.
 
-    •	Ambulation Assistance
-
-    •	Behavioral Monitoring and Intervention
-
-    •	Daily Housekeeping
-
-    •	Personal Care and Daily Living Activities (ADL’s) - (I.e. Grooming)
-
-    •	Laundry Assistance
-
-    •	Meal Preparation (3 meals a day w/ snacks available throughout day)
-
-    •	Medication Administration
-
-    •	Social and Spiritual Activities (I.e. Arranging Outings)
-
-    •	Transportation and Appointment Assistance (I.e. Doctor’s and day program appointments)
-
-    •	Weekly Outings
 main:
   heading: Additional Services
   description: "Patience In Home Care will expand its services over time. In the
