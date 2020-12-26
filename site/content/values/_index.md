@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: img/copy-of-patie.jpg
+image: img/istock-1162097884.jpg
 values:
   - heading: Appreciation for Our Employees
     text: >
