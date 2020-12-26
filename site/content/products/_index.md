@@ -75,6 +75,10 @@ testimonials:
       years and became a friend of mine.  You couldn't be in better hands than
       with Patience.
     author: "- Pam from Alexandria"
+  - quote: Patience took care of my father that was in late stages of ALS until his
+      last breaths.  She would rub his back and hold his hand to make him as
+      comfortable as possible throughout. Our family is forever grateful.
+    author: "- Cassandra from Rogers"
 full_image: img/istock-1199687289.jpg
 pricing:
   heading: Monthly subscriptions
