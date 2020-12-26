@@ -10,8 +10,17 @@ intro:
         working years with ALS, Muscular Dystrophy and other conditions
         requiring Tracheostomy and Ventilator administration.
     - image: img/tile.seniorcare.jpg
-      text: PIHC is working on getting financing on funding for a handicap accessible
-        van.  PIHC's goal is to provide transportation options for our clients.
+      text: "PIHC welcomes Seniors with advanced care needs.  We will take care of
+        your loved ones with Alzheimer's, Dementia or other advanced age related
+        needs. "
+    - image: img/tile.privduty.jpg
+      text: PIHC offers in home Private Duty Nursing. This could be any type of client
+        medical care such as respitory care, diabetic checks, tube feeding,
+        ostomy care, checking vitals, medication setup, etc.
+    - image: img/tile.advancedbehavioral.jpg
+      text: PIHC welcomes clients with advanced behavioral care needs. We will take
+        care of your loved ones with Autism, Down Syndrome, or other advanced
+        behavioral needs.
   heading: What we offer
   description: >+
     Patience In Home Care (PIHC) will initially be a single home including four
