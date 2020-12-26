@@ -79,6 +79,13 @@ testimonials:
       last breaths.  She would rub his back and hold his hand to make him as
       comfortable as possible throughout. Our family is forever grateful.
     author: "- Cassandra from Rogers"
+  - quote: Patience showed up with a smile on her face every day and a big heart to
+      care for my grandson. When thing seemed dark, she was the light for
+      him.  Until his last days he would greet Patience with his biggest
+      smile.  He looked forward to hearing her knock-knock jokes and riddles.  I
+      can hear him asking "what goes up when the rain comes down?". We are
+      grateful.
+    author: "- Sue from Blaine"
 full_image: img/istock-1199687289.jpg
 pricing:
   heading: Monthly subscriptions
