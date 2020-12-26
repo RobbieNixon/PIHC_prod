@@ -69,7 +69,7 @@ main:
     image: img/istock-1186772636.jpg
   image3:
     alt: We take care of your loved ones.
-    image: img/istock-1180634974.jpg
+    image: img/istock-1180634974.smaller.jpg
 testimonials:
   - quote: I've known Patience for many years. She took care of my mom in her later
       years and became a friend of mine.  You couldn't be in better hands than
