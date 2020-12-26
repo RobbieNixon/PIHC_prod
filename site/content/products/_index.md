@@ -21,6 +21,18 @@ intro:
       text: PIHC welcomes clients with advanced behavioral care needs. We will take
         care of your loved ones with Autism, Down Syndrome, or other advanced
         behavioral needs.
+    - image: img/tile.adultsitting.jpg
+      text: PIHC is here for your loved ones if you need a break or need to work or go
+        out of town.
+    - image: img/tile.adultassess.jpg
+      text: PIHC is here to professionally assess your loved ones in their home and
+        can arrange for regular check-ups or perform check-ups as often or as
+        little as needed.  These health and wellness check-ups can include
+        setting up medications and checking blood sugar, etc.
+    - image: img/tile.perscare.jpg
+      text: PIHC will come to your loved one's homes and help with their Activities of
+        Daliy Living (ADL's) and Personal Care needs. This can extend to light
+        house cleaning and food preparation.
   heading: What we offer
   description: >+
     Patience In Home Care (PIHC) will initially be a single home including four
@@ -45,7 +57,7 @@ main:
       van.  PIHC's goal is to provide transportation options for our clients.
     image: img/istock-1186772636.jpg
   image3:
-    alt: Coffee beans
+    alt: We take care of your loved ones.
     image: img/istock-1180634974.jpg
 testimonials:
   - quote: I've known Patience for many years. She took care of my mom in her later
