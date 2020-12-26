@@ -1,6 +1,6 @@
 ---
 title: Our Services
-image: img/istock-1218574217.jpg
+image: img/istock-1218574217.medium.jpg
 heading: What we offer
 description: Patience In Home Care will expand its services over time.
 intro:
@@ -86,7 +86,7 @@ testimonials:
       can hear him asking 'what goes up when the rain comes down?'. We are
       grateful.
     author: "- Sue from Blaine"
-full_image: img/istock-1199687289.jpg
+full_image: img/istock-1199687289.medium.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
