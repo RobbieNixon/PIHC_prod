@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: img/istock-1162097884.jpg
+image: img/istock-1162097884.medium.jpg
 values:
   - heading: Appreciation for Our Employees
     text: >
