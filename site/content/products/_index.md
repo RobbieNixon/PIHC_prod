@@ -1,6 +1,6 @@
 ---
 title: Our Services
-image: img/copy-of-patie.jpg
+image: img/istockphoto-486928840-2048x2048.jpg
 heading: What we offer
 description: Patience In Home Care will expand its services over time.
 intro:
