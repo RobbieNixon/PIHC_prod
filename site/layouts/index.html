@@ -6,9 +6,13 @@
 
 {{ partial "2-up" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.aboutus.heading "text" .Params.aboutus.text "buttonText" "Read more" "buttonLink" "/aboutus") }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/aboutus") }}
 
 
 {{ partial "blog" . }}
 
 {{ end }}
+
+<!--
+{{ partial "text-and-image" (dict "heading" .Params.aboutus.heading "text" .Params.aboutus.text "buttonText" "Read more" "buttonLink" "/aboutus") }}
+--!>
