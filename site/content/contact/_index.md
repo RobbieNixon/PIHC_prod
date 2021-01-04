@@ -8,8 +8,8 @@ contact_entries:
       business!
 
   - heading: Location
-    text: We will be looking for our first Home in the Andover, MN or surrounding
-      area in Anoka County.
+    text: We will be looking for our first home in the Andover (Minnesota) or
+      surrounding area in Anoka County (northern Twin Cities area).
 ---
 <h3 class="f4 b lh-title mb2">We love to hear your ideas!</h3>
 
